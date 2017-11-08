@@ -63,7 +63,7 @@ Sheet-Atlantis
     <td><input type="number" class="sheet-Attribute" name="Modifier"/><td>
     <td><input type="number" class="sheet-Attribute" name="CHASave"/><td>
     <td><button type='roll' value='/roll 1d20 + @{STRSave}' name='roll_CHASave'></button><td>
-    <td><input type="text" class="sheet-Attribute" name="Bonus"></td>
+    <td><input type="text" class="sheet-Attribute" name="Bonus"/></td>
   </tr>
   <tr>
     <td><input type="text"class="sheet-Attribute" name="attr_Perception"/><td>
